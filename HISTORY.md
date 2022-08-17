@@ -3,6 +3,10 @@ Legend:
 - [F]: Fix
 - [I]: Improvement
 
+### 0.5.2 (17.08.2022)
+- [F] Support react 18
+
+
 ### 0.5.1 (August 28th 2017)
 - [F] New flow definitions, fixes children typing.
 
